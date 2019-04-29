@@ -1,0 +1,20 @@
+.dark {
+  /* width: 100%;
+  height: 80vh; */
+  background-color: black;
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue";
+}
+
+.lit {
+  background-color: #ffffff;
+  color: orange;
+  font-family: poppins;
+  font-weight: bolder;
+}
+.room {
+  width: 100%;
+  height: 80vh;
+  padding: 20px;
+}

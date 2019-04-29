@@ -1,2 +1,0 @@
-# statesInReact
-Created with CodeSandbox
